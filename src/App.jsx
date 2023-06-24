@@ -5,7 +5,7 @@ function App() {
   
 
   return (
-    <div className='flex flex-col justify-center w-[100%]' >
+    <div className='wrapper overflow-hidden' >
       <Layout/>
     </div>
   )
